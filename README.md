@@ -47,5 +47,6 @@ Questions to ask at an interview
 * Hardware
 * Local admin
 * Remote access
+* How many monitors
 
 
