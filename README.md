@@ -48,5 +48,6 @@ Questions to ask at an interview
 * Local admin
 * Remote access
 * How many monitors
+* Is there wifi in the building?
 
 
