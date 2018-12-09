@@ -39,11 +39,12 @@ Questions to ask at an interview
 * All tests are passing?
 * Code coverage?
 
-### Workstation
+### Work environment
 * IDE runs locally
 * Intellij
 * Operating system
 * Hardware
 * Local admin
+* Remote access
 
 
