@@ -10,7 +10,7 @@ Questions to ask at an interview
 * Developer?
 
 #### Dev team
-* Turn over?
+* Are the original developers still in the team?
 
 ### Agile
 * How are stories assigned to people?
