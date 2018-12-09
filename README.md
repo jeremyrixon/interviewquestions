@@ -16,11 +16,16 @@ Questions to ask at an interview
 * How are stories assigned to people?
 * How are stories estimated?
 * Do developers do front-end and back-end or is the story split between developers?
+* Code review?
+* Do you use Jira?
+* Backlog groomed?
+* Sprint planning?
+* Sprint retro?
+* Sprint demo?
+* Product owner availability?
 
 ### Project
 * How far through development?
-
-#### Code Review
 
 ### Internet
 
