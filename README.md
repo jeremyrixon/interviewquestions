@@ -34,6 +34,7 @@ Questions to ask at an interview
 * Gmail
 
 ### Source Repositories
+* Git / SVN
 
 ### CI
 * All tests are passing?
