@@ -50,5 +50,6 @@ Questions to ask at an interview
 * How many monitors
 * Is there wifi in the building?
 * A/C temp. Too warm sometimes?
+* Dress standard
 
 
