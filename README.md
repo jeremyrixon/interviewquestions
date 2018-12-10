@@ -26,6 +26,8 @@ Questions to ask at an interview
 
 ### Project
 * How far through development?
+* Technology stack?
+* Version of java?
 
 ### Internet
 
