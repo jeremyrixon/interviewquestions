@@ -49,5 +49,6 @@ Questions to ask at an interview
 * Remote access
 * How many monitors
 * Is there wifi in the building?
+* A/C temp. Too warm sometimes?
 
 
